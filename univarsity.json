@@ -1,0 +1,38 @@
+{
+    "universities": [
+      {
+        "name": "Stanford University",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Stamford_University_Bangladesh_Monogram.svg/800px-Stamford_University_Bangladesh_Monogram.svg.png", 
+        "location": {
+          "city": "Stanford",
+          "state": "California",
+          "country": "USA"
+        },
+        "ranking": 2,
+        "description": "Stanford University is a private research university known for its academic strength, proximity to Silicon Valley, and entrepreneurial spirit. It offers a wide range of undergraduate and graduate programs."
+      },
+      {
+        "name": "University of Oxford",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oxford-University-Circlet.svg/1636px-Oxford-University-Circlet.svg.png",
+        "location": {
+          "city": "Oxford",
+          "state": "Oxfordshire",
+          "country": "UK"
+        },
+        "ranking": 1,
+        "description": "The University of Oxford is a prestigious collegiate research university, the oldest in the English-speaking world. It is known for its rigorous academic programs and historic campus."
+      },
+      {
+        "name": "University of Tokyo",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Tokyo_International_University_Logo.png",
+        "location": {
+          "city": "Tokyo",
+          "state": "Tokyo",
+          "country": "Japan"
+        },
+        "ranking": 23,
+        "description": "The University of Tokyo is a leading public research university in Japan, renowned for its research excellence, diverse academic programs, and contributions to science and technology."
+      }
+    ]
+  }
+  
